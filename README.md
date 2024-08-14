@@ -1,4 +1,4 @@
-## Spotity 📻
+## Demo - Spotity 📻
 
 URL: https://hebergustavo.github.io/spotify-home-page-website/
 
